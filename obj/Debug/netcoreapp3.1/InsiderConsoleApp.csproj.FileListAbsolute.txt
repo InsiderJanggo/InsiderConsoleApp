@@ -1,0 +1,11 @@
+D:\Game Assest\My Engine\c#\InsiderConsoleApp\bin\Debug\netcoreapp3.1\InsiderConsoleApp.exe
+D:\Game Assest\My Engine\c#\InsiderConsoleApp\bin\Debug\netcoreapp3.1\InsiderConsoleApp.deps.json
+D:\Game Assest\My Engine\c#\InsiderConsoleApp\bin\Debug\netcoreapp3.1\InsiderConsoleApp.runtimeconfig.json
+D:\Game Assest\My Engine\c#\InsiderConsoleApp\bin\Debug\netcoreapp3.1\InsiderConsoleApp.runtimeconfig.dev.json
+D:\Game Assest\My Engine\c#\InsiderConsoleApp\bin\Debug\netcoreapp3.1\InsiderConsoleApp.dll
+D:\Game Assest\My Engine\c#\InsiderConsoleApp\bin\Debug\netcoreapp3.1\InsiderConsoleApp.pdb
+D:\Game Assest\My Engine\c#\InsiderConsoleApp\obj\Debug\netcoreapp3.1\InsiderConsoleApp.csprojAssemblyReference.cache
+D:\Game Assest\My Engine\c#\InsiderConsoleApp\obj\Debug\netcoreapp3.1\InsiderConsoleApp.AssemblyInfoInputs.cache
+D:\Game Assest\My Engine\c#\InsiderConsoleApp\obj\Debug\netcoreapp3.1\InsiderConsoleApp.AssemblyInfo.cs
+D:\Game Assest\My Engine\c#\InsiderConsoleApp\obj\Debug\netcoreapp3.1\InsiderConsoleApp.dll
+D:\Game Assest\My Engine\c#\InsiderConsoleApp\obj\Debug\netcoreapp3.1\InsiderConsoleApp.pdb
